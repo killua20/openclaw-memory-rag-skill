@@ -41,140 +41,86 @@ python3 ~/.openclaw/workspace/.learnings/memory_query.py "your query"
 ```bash
 ~/.openclaw/workspace/.learnings/memory_helper.sh --before-task "task description"
 ```
-der
+
 ### Reindex
-```
-cd "$memory_set the skill"
-  echo "Done"
-}
-```
-```
-echo -e 2>&1
-# 搜索文档
-python3 run_pageindex.py "$MEMORY_DIR/LEARNINGS.md" >2>&1
-    python3 run_pageindex.py "$MEMORY_DIR/ERRORS.md" >2>&1
-    # 更新时间
-    python3 -c "
-    marker.set the memory}    return 0
-}
-```
-    }
-    search_docs placeholderearch_docs() {
-    echo 搜索文档 search_docs "Search docs: ${1}" placeholderearch_docs "$1" | head placeholderearch_docs "$1" -20 place
-搜索文档 search_docs search_docs "$1" | head -5
-搜索文档 "Search docs: $1"  "$1" | head5
-}
-搜索文档 "$1" | head "5
-}
- 5
-    search_docs "Search docs: $1" | head "$1" -5 placeholderearch_docs "$1" placeholdere持项目 }}
-    search_docs "$ placeholdereholder="$1"
-搜索文档 "$1" placeholdereholder持项目}
-  placeholdereholder持项目}
-  placeholdereholder持项目
-placeholdereholder持项目
-  return 0
-    placeholdereholder}
-holder持项目
-    持项目
-  placeholdereholder持项目
-搜索文档
 
-搜索文档 搜索文档：搜索文档
-    搜索文档 搜索文档 搜索文档 搜索文档 搜索项目 搜索文档 搜索项目 搜索文档：搜索文档
-搜索项目 搜索文档 搜索项目 搜索文档 搜索项目
-搜索文档 placeholdereholder搜索文档 "${1}" | head -${2}
-搜索文档：搜索文档 "${1}" | head
-搜索文档：搜索文档 "${1}" placeholdereholder搜索文档：搜索文档 "${1}" | head
-搜索文档
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head -${2}
-搜索文档 "${1}" placeholdereholder搜索文档搜索文档 "${1}" -${2}
-搜索文档：搜索文档 "${1}" | head搜索文档 "${1}" placeholdereholder搜索文档搜索文档 "${1}" | head
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" -${2}
-搜索文档搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head搜索文档搜索文档 "${1}" placeholdereholder搜索文档搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head搜索文档 "${1}" placeholdereholder搜索文档 "${1}" -${2}
-搜索文档搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head -${2}
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" -${2}
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head
-    }
-    marker 持项目eturn持项目
-搜索文档
-    return 0
-}
-  marker 持项目
-搜索文档搜索文档 "${1}" placeholdereholder搜索文档：搜索文档 "${1}" | head持项目
-搜索文档 "${1}" | head搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head持项目
-搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head搜索文档 "${1}" placeholdereholder搜索文档 "${1}" | head持项目
+```bash
+~/.openclaw/workspace/.learnings/memory_helper.sh --reindex
+```
 
-搜索文档 "${1}" placeholdereholder持项目
-搜索文档 search_docs "${1}" | head持项目
-搜索文档 search_docs "${1}" placeholdereholder持项目
-    marker setMap(map)
-  marker.setMap(map)
-  marker setMap(map)
-    marker.setMap(map持项目
- marker.setMap(map)
-  marker.setMap(map)
-    marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
- marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
-  marker.setMap(map持项目
- marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
-  marker.setMap(map持项目
-    marker.setMap(map持项目
-  marker.setMap(map持项目
- marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
- marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
- marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map持项目
-  marker.setMap(map
+## File Structure
+
+```
+.learnings/
+├── LEARNINGS.md          # Learning records
+├── ERRORS.md             # Error tracking
+├── memory_index.json     # Index metadata
+├── memory_query.py       # Query engine
+└── memory_helper.sh      # Helper script
+
+PageIndex/results/
+├── LEARNINGS_structure.json   # Tree index for LEARNINGS.md
+└── ERRORS_structure.json      # Tree index for ERRORS.md
+```
+
+## Memory Entry Format
+
+Add entries to LEARNINGS.md using this format:
+
+```markdown
+## [LRN-YYYYMMDD-NNN] title
+
+**Logged**: ISO timestamp
+**Priority**: high/medium/low
+**Status**: completed/in-progress
+**Area**: category
+**Source**: URL or context
+
+### Summary
+Brief summary of what was learned
+
+### Details
+Detailed content
+
+### Metadata
+- Source: source_name
+- Tags: tag1, tag2
+- Embedding: Recommended
+```
+
+## Backup Configuration
+
+Set up automatic backup to GitHub:
+
+```bash
+bash ~/.openclaw/skills/memory-rag-system/scripts/setup-backup.sh
+```
+
+This configures:
+- SSH key for GitHub authentication
+- Cron job for automatic commits every 6 hours
+- Backup script at `~/.openclaw/workspace/scripts/auto-backup-memory.sh`
+
+## How It Works
+
+1. **Indexing**: PageIndex parses markdown structure, creates tree representation
+2. **Query**: Semantic search finds relevant sections based on content similarity
+3. **Retrieval**: Returns snippet with file path and line numbers for verification
+4. **Backup**: Git tracks all changes, auto-push to GitHub prevents data loss
+
+## Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| Query returns nothing | Run `memory_helper.sh --reindex` to rebuild index |
+| Index out of date | Check `memory_index.json` last_updated timestamp |
+| Backup not working | Verify SSH key added to GitHub: `ssh -T git@github.com` |
+
+## References
+
+- [PageIndex Documentation](references/MASTER_INDEX.md)
+- [Memory RAG System Full Guide](https://github.com/killua20/openclaw-memory-rag-skill)
+
+## License
+
+MIT
